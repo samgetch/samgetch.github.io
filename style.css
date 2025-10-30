@@ -1,4 +1,4 @@
 p {}
-#para1 {color: pink;} 
-#para2 {color: blue;}
-#para3 {color: purple;}
+#para1 {textalign: center;} 
+#para2 {textalign: left;}
+#para3 {textalign: right;}
