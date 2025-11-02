@@ -1,4 +1,4 @@
-p {}
-#para1 {textalign: center;} 
-#para2 {textalign: left;}
-#para3 {textalign: right;}
+p {background-color: #CA9192} 
+		  #para1 {background-color: antiquewhite;} 
+#para2 {background-color: aquamarine;}
+#para3 {background-color: brown;}
